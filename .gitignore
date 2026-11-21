@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next
+/out
+
+# env — NEVER commit (service key lives here); set these in Vercel instead
+.env
+.env*.local
+
+# misc
+.DS_Store
+*.log
+/public/reference
